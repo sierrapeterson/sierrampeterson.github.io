@@ -9,6 +9,10 @@ Boise State University
 ### Major:
 AI Science
 
+### GitHub:  
+Small Description of me:
+- https://github.com/sierrapeterson/hello-world
+
 ### Past Work Experience:
 - Babysitter
 - Athena Volleyball Academy Tournament Worker
